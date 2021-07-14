@@ -7,3 +7,5 @@
 1. Separar ingredientes
 2. Amassar banana
 3. Misturar tudo
+
+Delicioso! oi
